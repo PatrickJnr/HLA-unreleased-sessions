@@ -1,1 +1,1 @@
-*.dmx filter=lfs diff=lfs merge=lfs -text
+shot_007 tga-01-tk016-build5510623 tga-01-tk006-build5510623 gman eli_session_v2 eli_session shot_010 filter=lfs diff=lfs merge=lfs -text
